@@ -87,12 +87,12 @@ img {
 
   .photo:first-child {
     flex-basis: 66.6666%;
-    width: 66.6666%
+    width: 66.6666%;
   }
 
   .photo:nth-child(2) {
     flex-basis: 33.3333%;
-    width: 33.3333%
+    width: 33.3333%;
   }
 
   .photo:last-child {
